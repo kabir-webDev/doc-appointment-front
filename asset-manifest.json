@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/doc-appointment-front/static/css/main.2eabddbf.chunk.css",
+    "main.js": "/doc-appointment-front/static/js/main.045ca7df.chunk.js",
+    "main.js.map": "/doc-appointment-front/static/js/main.045ca7df.chunk.js.map",
+    "runtime-main.js": "/doc-appointment-front/static/js/runtime-main.cfffe99e.js",
+    "runtime-main.js.map": "/doc-appointment-front/static/js/runtime-main.cfffe99e.js.map",
+    "static/js/2.2e087396.chunk.js": "/doc-appointment-front/static/js/2.2e087396.chunk.js",
+    "static/js/2.2e087396.chunk.js.map": "/doc-appointment-front/static/js/2.2e087396.chunk.js.map",
+    "static/js/3.d5749504.chunk.js": "/doc-appointment-front/static/js/3.d5749504.chunk.js",
+    "static/js/3.d5749504.chunk.js.map": "/doc-appointment-front/static/js/3.d5749504.chunk.js.map",
+    "index.html": "/doc-appointment-front/index.html",
+    "static/css/main.2eabddbf.chunk.css.map": "/doc-appointment-front/static/css/main.2eabddbf.chunk.css.map",
+    "static/js/2.2e087396.chunk.js.LICENSE.txt": "/doc-appointment-front/static/js/2.2e087396.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfffe99e.js",
+    "static/js/2.2e087396.chunk.js",
+    "static/css/main.2eabddbf.chunk.css",
+    "static/js/main.045ca7df.chunk.js"
+  ]
+}
